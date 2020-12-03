@@ -1,0 +1,14 @@
+*.bak
+*.o
+*.old
+*.orig
+*.rej
+*~
+.*.swp
+.DS_Store
+.VolumeIcon.icns
+
+
+
+!.git_keep
+!.gitkeep
