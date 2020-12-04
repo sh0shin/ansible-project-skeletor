@@ -9,5 +9,5 @@ tags: []
 use_default_rules: true
 verbosity: 1
 
-# vim: set ft=yaml.ansible syn=yaml w=2 ts=2 et colorcolumn=160 :
+# vim: set ft=yaml.ansible sw=2 ts=2 et colorcolumn=160 :
 # eof
