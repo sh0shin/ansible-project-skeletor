@@ -1,0 +1,18 @@
+---
+
+- hosts:
+    - all # or group
+  order: inventory
+  vars:
+    ansible_python_interpreter: '/usr/bin/env python' # generic
+  gather_facts: no
+
+  # collections
+  collections: []
+
+  # roles
+  roles:
+    - { role: example }
+
+# vim: set ft=yaml.ansible syn=yaml sw=2 ts=2 et colorcolumn=160 :
+# eof
