@@ -2,10 +2,19 @@
 
 Template hierarchy for Ansible projects
 
-## Install requirements
-
+## Install Ansible & Python requirements
 ```sh
 pip install -U -r requirements-VERSION.txt
 ```
 
-[//]: # ( vim: set ft=markdown syn=markdown sw=2 ts=2 noet : )
+## Install Ansible roles
+```sh
+ansible-galaxy role install -r requirements.yml
+```
+
+## Install Ansible collections
+```sh
+ansible-galaxy collection install -r requirements.yml
+```
+
+[//]: # ( vim: set ft=markdown sw=2 ts=2 noet : )
