@@ -1,0 +1,14 @@
+---
+
+# roles
+roles:
+  - name: example.role
+    version: 0.0.1
+
+# collections
+collections:
+  - name: example.collection
+    version: 0.0.1
+
+# vim: set ft=yaml.ansible sw=2 ts=2 et colorcolumn=160 :
+# eof
