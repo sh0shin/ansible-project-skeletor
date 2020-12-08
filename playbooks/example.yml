@@ -4,7 +4,7 @@
     - all # or group
   order: inventory
   vars:
-    ansible_python_interpreter: '/usr/bin/env python' # generic
+    ansible_python_interpreter: '/usr/bin/env python3' # generic
   gather_facts: no
 
   # collections
