@@ -17,4 +17,11 @@ ansible-galaxy role install -r requirements.yml
 ansible-galaxy collection install -r requirements.yml
 ```
 
+## Setup your inventory
+See: [ansible-inventory-skeletor](https://github.com/sh0shin/ansible-inventory-skeletor) for an example inventory.
+
+```sh
+git clone https://github.com/sh0shin/ansible-inventory-skeletor.git inventories/skeletor
+```
+
 [//]: # ( vim: set ft=markdown sw=2 ts=2 noet : )
