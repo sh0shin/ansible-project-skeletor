@@ -7,6 +7,9 @@ wheel
 ansible ~= 2.9.0
 ansible-lint
 
+# mitogen
+mitogen >= 0.2.9
+
 # modules
 -r requirements-modules.txt
 

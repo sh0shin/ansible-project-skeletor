@@ -8,6 +8,9 @@ ansible ~= 2.10.0
 ansible-base ~= 2.10.0
 ansible-lint
 
+# mitogen
+#mitogen
+
 # modules
 -r requirements-modules.txt
 
