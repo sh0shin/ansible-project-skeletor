@@ -1,7 +1,5 @@
 # core
-pip
-setuptools
-wheel
+-r requirements-core.txt
 
 # ansible
 ansible ~= 2.9.0
@@ -13,5 +11,5 @@ mitogen >= 0.2.9
 # modules
 -r requirements-modules.txt
 
-# vim: set ft=python syn=python sw=2 ts=2 et :
+# vim: set ft=python sw=2 ts=2 et :
 # eof
