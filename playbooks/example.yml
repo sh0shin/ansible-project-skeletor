@@ -1,10 +1,12 @@
 ---
 
 - hosts:
-    - all # or group
+    # all hosts or groups
+    - all
   order: inventory
   vars:
-    ansible_python_interpreter: '/usr/bin/env python3' # generic
+    # generic python interpreter
+    ansible_python_interpreter: '/usr/bin/env python3'
   gather_facts: no
 
   # collections
