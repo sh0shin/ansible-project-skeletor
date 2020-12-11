@@ -8,7 +8,15 @@
 .DS_Store
 .VolumeIcon.icns
 
+collections-devel/*
+collections/*
+facts/*
+inventories/*
+library/*
+logs/*
+roles-devel/*
+roles/*
 
-
+!.git
 !.git_keep
 !.gitkeep
