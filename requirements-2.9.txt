@@ -1,3 +1,4 @@
+# vim: set ft=python :
 # core
 -r requirements-core.txt
 
@@ -10,6 +11,3 @@ mitogen >= 0.2.9
 
 # modules
 -r requirements-modules.txt
-
-# vim: set ft=python sw=2 ts=2 et :
-# eof

@@ -1,4 +1,2 @@
+# vim: set ft=python :
 # modules
-
-# vim: set ft=python sw=2 ts=2 et :
-# eof

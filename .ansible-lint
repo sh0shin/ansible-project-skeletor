@@ -1,4 +1,5 @@
 ---
+# vim: set ft=yaml :
 
 exclude_paths: []
 parseable: true
@@ -8,6 +9,3 @@ skip_list: []
 tags: []
 use_default_rules: true
 verbosity: 1
-
-# vim: set ft=yaml.ansible sw=2 ts=2 et colorcolumn=160 :
-# eof

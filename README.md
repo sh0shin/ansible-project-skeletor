@@ -1,3 +1,4 @@
+[//]: # ( vim: set ft=markdown : )
 # Ansible project skeletor
 
 Template hierarchy for Ansible projects
@@ -23,5 +24,3 @@ See: [ansible-inventory-skeletor](https://github.com/sh0shin/ansible-inventory-s
 ```sh
 git clone https://github.com/sh0shin/ansible-inventory-skeletor.git inventories/skeletor
 ```
-
-[//]: # ( vim: set ft=markdown sw=2 ts=2 noet : )
