@@ -1,4 +1,5 @@
 ---
+# vim: set ft=yaml :
 
 extends: default
 
@@ -20,6 +21,3 @@ rules:
 
   line-length: disable
   truthy: disable
-
-# vim: set ft=yaml sw=2 ts=2 et colorcolumn=160 :
-# eof

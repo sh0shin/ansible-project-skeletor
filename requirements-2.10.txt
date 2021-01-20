@@ -1,3 +1,4 @@
+# vim: set ft=python :
 # core
 -r requirements-core.txt
 
@@ -11,6 +12,3 @@ ansible-lint
 
 # modules
 -r requirements-modules.txt
-
-# vim: set ft=python sw=2 ts=2 et :
-# eof

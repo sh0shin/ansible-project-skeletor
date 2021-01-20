@@ -1,7 +1,5 @@
+# vim: set ft=python :
 # core
 pip
 setuptools
 wheel
-
-# vim: set ft=python sw=2 ts=2 et :
-# eof
