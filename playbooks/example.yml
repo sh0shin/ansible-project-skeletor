@@ -4,14 +4,13 @@
     # all hosts or groups
     - all
   order: inventory
-  vars:
-    # generic python interpreter
-    ansible_python_interpreter: '/usr/bin/env python3'
-  gather_facts: no
+  gather_facts: yes
 
   # collections
   collections: []
 
   # roles
-  roles:
-    - { role: example }
+  roles: []
+
+  # tags
+  tags: []
