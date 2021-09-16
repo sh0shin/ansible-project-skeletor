@@ -8,7 +8,7 @@ ansible ~= 4.4.0
 ansible-lint
 
 # mitogen
-#mitogen >= 0.2.9
+#mitogen ~= 0.3.0
 
 # molecule
 molecule
