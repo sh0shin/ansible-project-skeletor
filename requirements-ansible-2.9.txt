@@ -7,5 +7,5 @@
 ansible ~= 2.9.0
 ansible-lint
 
-# modules
--r requirements-modules.txt
+# ansible modules
+-r requirements-ansible-modules.txt

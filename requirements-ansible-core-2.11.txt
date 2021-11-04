@@ -7,5 +7,5 @@
 ansible-core ~= 2.11.0
 ansible-lint
 
-# modules
+# ansible modules
 -r requirements-ansible-modules.txt
