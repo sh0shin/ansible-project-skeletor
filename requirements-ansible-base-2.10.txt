@@ -1,0 +1,11 @@
+# vim: set ft=python :
+
+# python
+-r requirements-python.txt
+
+# ansible
+ansible-base ~= 2.10.0
+ansible-lint
+
+# modules
+-r requirements-ansible-modules.txt

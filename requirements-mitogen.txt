@@ -1,0 +1,4 @@
+# vim: set ft=python :
+
+# mitogen
+mitogen >= 0.2.9

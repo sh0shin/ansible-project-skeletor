@@ -1,18 +1,11 @@
 # vim: set ft=python :
 
-# core
--r requirements-core.txt
+# python
+-r requirements-python.txt
 
 # ansible
 ansible ~= 2.9.0
 ansible-lint
-
-# mitogen
-mitogen >= 0.2.9
-
-# molecule
-molecule
-molecule-docker
 
 # modules
 -r requirements-modules.txt
