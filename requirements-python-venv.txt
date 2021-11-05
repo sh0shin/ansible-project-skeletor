@@ -1,6 +1,6 @@
 # vim: set ft=python :
 
-# core
+# python venv
 pip
 setuptools
 wheel

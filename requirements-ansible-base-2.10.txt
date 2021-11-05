@@ -1,7 +1,7 @@
 # vim: set ft=python :
 
-# python
--r requirements-python.txt
+# python venv
+-r requirements-python-venv.txt
 
 # ansible
 ansible-base ~= 2.10.0
